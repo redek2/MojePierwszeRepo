@@ -1,0 +1,15 @@
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\GraSaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\GraSaper.AssemblyInfoInputs.cache
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\GraSaper.AssemblyInfo.cs
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\GraSaper.csproj.CoreCompileInputs.cache
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\GraSaper.sourcelink.json
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\bin\Debug\net9.0\GraSaper.exe
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\bin\Debug\net9.0\GraSaper.deps.json
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\bin\Debug\net9.0\GraSaper.runtimeconfig.json
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\bin\Debug\net9.0\GraSaper.dll
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\bin\Debug\net9.0\GraSaper.pdb
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\GraSaper.dll
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\refint\GraSaper.dll
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\GraSaper.pdb
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\GraSaper.genruntimeconfig.cache
+C:\Users\redek\Documents\GitHub\MojePierwszeRepo\GraSaper\GraSaper\obj\Debug\net9.0\ref\GraSaper.dll
